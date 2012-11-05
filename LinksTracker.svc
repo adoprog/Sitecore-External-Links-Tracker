@@ -1,1 +1,1 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Factory="Analytics.ExternalLinksTracker.CustomHostFactory" Service="Analytics.ExternalLinksTracker.LinksTracker" CodeBehind="LinksTracker.svc.cs" %>
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Analytics.ExternalLinksTracker.LinksTracker" CodeBehind="LinksTracker.svc.cs" %>

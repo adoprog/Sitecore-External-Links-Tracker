@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ExternalLinksTracker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("SitecoreSnippets.blogspot.com")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Alex")]
+[assembly: AssemblyCompany("Alexander Doroshenko")]
 [assembly: AssemblyProduct("ExternalLinksTracker")]
-[assembly: AssemblyCopyright("Copyright © Alex 2009")]
+[assembly: AssemblyCopyright("Copyright © Alexander Doroshenko 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,7 +33,7 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("2.0.0.0")]
+[assembly: AssemblyFileVersion("2.0.0.0")]
 
 [assembly: System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Design", "CA2210:AssembliesShouldHaveValidStrongNames")]
